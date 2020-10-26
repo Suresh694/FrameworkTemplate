@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/bundle-jars.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-email-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-email-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-email-1.5-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-email-1.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/commons-text-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/htmlunit-2.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/htmlunit-core-js-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/htmlunit-cssparser-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/htmlunit-driver-2.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/httpmime-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/jetty-client-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/jetty-http-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/jetty-io-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/jetty-util-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/jetty-xml-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/neko-htmlunit-2.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/selenium-3.14.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/selenium-3.14.0-nodeps-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/snakeyaml-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/websocket-api-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/websocket-client-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/websocket-common-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repositoryforTemplate/FrameworkTemplate/lib/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
