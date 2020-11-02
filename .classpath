@@ -4,8 +4,10 @@
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/bson-3.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/bundle-jars.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/commons-codec-1.9.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/commons-codec-1.10.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/commons-codec-1.11.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/commons-collections4-4.2.jar"/>
@@ -24,13 +26,19 @@
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/commons-text-1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/curvesapi-1.05.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/gson-2.8.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/htmlunit-2.30.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/htmlunit-core-js-2.28.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/htmlunit-cssparser-1.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/htmlunit-driver-2.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/httpclient-4.5.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/httpcore-4.4.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/httpmime-4.5.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/httpmime-4.5.5.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/imap.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/javax.servlet-api-3.1.0.jar"/>
@@ -44,10 +52,13 @@
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/jetty-io-9.4.8.v20180619.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/jetty-util-9.4.8.v20180619.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/jetty-xml-9.4.8.v20180619.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/jsoup-1.9.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/junit-4.12.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/mail.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/mongodb-driver-core-3.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/neko-htmlunit-2.30.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/okhttp-3.10.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Suresh Das/git/repository3/FrameworkTemplate/lib/okio-1.14.1.jar"/>
