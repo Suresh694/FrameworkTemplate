@@ -20,6 +20,7 @@ public class ExtentManager {
 	
 	public static ExtentReports createInstance() {
 		
+		
 		return extent;
 		
 	}
